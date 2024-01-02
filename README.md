@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Kady :) 
+---
+I'm studying cybersecurity at NYP. In my free time, ~~I torture myself with CTFs~~ sharpen my skills playing CTFs. 
 
 <!--
 **infokirby/infokirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
